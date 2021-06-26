@@ -2,9 +2,9 @@
 /*************************************************************************
 php easy :: whois lookup script
 ==========================================================================
-Author:      php easy code, www.phpeasycode.com
-Web Site:    http://www.phpeasycode.com
-Contact:     webmaster@phpeasycode.com
+Author:      Riad360
+Web Site:    http://www.devshadman.info
+Contact:     shadman.contact@gmail.com
 *************************************************************************/
 
 $domain = $_GET['domain'];
